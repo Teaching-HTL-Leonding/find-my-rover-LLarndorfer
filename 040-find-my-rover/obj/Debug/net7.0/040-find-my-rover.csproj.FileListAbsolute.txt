@@ -1,0 +1,15 @@
+C:\Users\User\Documents\HTL\Pro\040-find-my-rover\bin\Debug\net7.0\040-find-my-rover.exe
+C:\Users\User\Documents\HTL\Pro\040-find-my-rover\bin\Debug\net7.0\040-find-my-rover.deps.json
+C:\Users\User\Documents\HTL\Pro\040-find-my-rover\bin\Debug\net7.0\040-find-my-rover.runtimeconfig.json
+C:\Users\User\Documents\HTL\Pro\040-find-my-rover\bin\Debug\net7.0\040-find-my-rover.dll
+C:\Users\User\Documents\HTL\Pro\040-find-my-rover\bin\Debug\net7.0\040-find-my-rover.pdb
+C:\Users\User\Documents\HTL\Pro\040-find-my-rover\obj\Debug\net7.0\040-find-my-rover.csproj.AssemblyReference.cache
+C:\Users\User\Documents\HTL\Pro\040-find-my-rover\obj\Debug\net7.0\040-find-my-rover.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\HTL\Pro\040-find-my-rover\obj\Debug\net7.0\040-find-my-rover.AssemblyInfoInputs.cache
+C:\Users\User\Documents\HTL\Pro\040-find-my-rover\obj\Debug\net7.0\040-find-my-rover.AssemblyInfo.cs
+C:\Users\User\Documents\HTL\Pro\040-find-my-rover\obj\Debug\net7.0\040-find-my-rover.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\HTL\Pro\040-find-my-rover\obj\Debug\net7.0\040-find-my-rover.dll
+C:\Users\User\Documents\HTL\Pro\040-find-my-rover\obj\Debug\net7.0\refint\040-find-my-rover.dll
+C:\Users\User\Documents\HTL\Pro\040-find-my-rover\obj\Debug\net7.0\040-find-my-rover.pdb
+C:\Users\User\Documents\HTL\Pro\040-find-my-rover\obj\Debug\net7.0\040-find-my-rover.genruntimeconfig.cache
+C:\Users\User\Documents\HTL\Pro\040-find-my-rover\obj\Debug\net7.0\ref\040-find-my-rover.dll
